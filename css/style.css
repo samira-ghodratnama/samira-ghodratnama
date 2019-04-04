@@ -2,7 +2,8 @@
 
 body {font-family:Arial , Tahoma;margin:0}
 
-.container {width:1170px;margin:auto}
+.container {;margin:auto}
+/*.container {width:1170px;margin:auto}*/
 
 .clean {clear:both}
 
@@ -235,7 +236,7 @@ margin-left:40px}
 
 .my-education .exp {
     float:left;
-    /*width:45%;*/
+    width:45%;
     margin-top:55px;
     padding-left:5%
 }
@@ -342,7 +343,7 @@ margin-left:40px}
     background-color: #485557;
     color:#FFF;
     height: 40px;
-    /*width: 80%;*/
+   /* width: 80%;*/
     border:0;
     font-size:18px
 }

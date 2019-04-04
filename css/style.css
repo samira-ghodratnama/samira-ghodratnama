@@ -212,15 +212,21 @@ margin-left:40px}
 /* End Resume */
 
 /* Start My Education */
+.my-education {
+	background-color:#F2F2F2
+}
 
 .my-education hr {
+	background-color:#F2F2F2
     border:0;
     height:1px;
-    background-color:#999
+   /*  background-color:#999*/
+	
 }
 
 .my-education .main {
-    width:50%
+    width:50%;
+	
 }
 
 .my-education .main h2 {margin-left:40px}
@@ -255,7 +261,6 @@ margin-left:40px}
 
 .testemonials {
     text-align:center;
-    background-color:#F2F2F2;
     overflow:hidden;
     padding-top:40px;
     padding-bottom:50px

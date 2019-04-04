@@ -3,7 +3,7 @@
 body {font-family:Arial , Tahoma;margin:0}
 
 
-.container {width:90%;margin-left:5%;margin-right:5%;}
+.container {width:80%;margin-left:5%;margin-right:5%;}
 
 .clean {clear:both}
 
@@ -14,7 +14,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start Slider */
 
 .header .slider {
-    height:600px;
+    height:70%;
     background-image:url('../images/slider.jpg');
     -webkit-background-size: cover; /* CSS3 */
     -moz-background-size: cover; /* CSS3 */
@@ -23,7 +23,7 @@ body {font-family:Arial , Tahoma;margin:0}
 }
 
 .header .slider .intro {
-    padding-top:150px;
+    padding-top:5%;
     color: #FFF;
     text-align:center
 }

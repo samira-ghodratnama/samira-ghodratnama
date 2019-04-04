@@ -44,7 +44,11 @@ body {font-family:Arial , Tahoma;margin:0}
     padding:10px 25px;
     font-size:22px;
 }
+.notseen{
 
+	 height:25px;
+	display: none
+}
 /* End Slider */
 
 /* Start Navbar */
@@ -111,7 +115,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start About Me */
 
 .about-me{
-    min-height:457px;
+    min-height:400px;
     background-color:#F2F2F2
 }
 
@@ -151,7 +155,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start My Skills */
 
 .my-skills {
-    min-height:400px;
+    min-height:300px;
     padding-top:30px
 }
 
@@ -214,7 +218,8 @@ margin-left:40px}
 
 /* Start My Education */
 .my-education {
-	background-color:#F2F2F2
+	background-color:#F2F2F2;
+	 min-height:550px;
 }
 
 .my-education hr {

@@ -156,6 +156,7 @@ body {font-family:Arial , Tahoma;margin:0}
 
 .my-skills {
     min-height:300px;
+	max-height:1000px;
     padding-top:30px
 }
 
@@ -174,7 +175,9 @@ margin-left:40px}
     font-size:15px
 }
 
-.my-skills .progress {width:45%}
+.my-skills .progress {
+	width:45%
+	}
 
 .my-skills .progress .technique div {
     height:25px;
@@ -243,7 +246,7 @@ margin-left:40px}
     float:left;
     width:45%;
     margin-top:55px;
-    padding-left:5%
+    padding-left:3%
 }
 
 .my-education .exp .certified {margin-bottom:65px}
@@ -262,6 +265,59 @@ margin-left:40px}
 }
 
 /* End My Education */
+
+
+/* Start My Experience */
+.my-experience{
+	 min-height:550px
+}
+
+.my-experience hr {
+
+    border:0;
+    height:1px;
+   background-color:#737373	
+}
+
+.my-experience .main {
+    width:50%;
+	
+}
+
+.my-experience .main h2 {margin-left:40px}
+.my-experience .main h3 {color:#00cd00}
+
+
+.my-experience .main p {width:90%;margin-left:40px}
+
+.my-experience .exp {
+    float:left;
+    width:45%;
+    margin-top:55px;
+    padding-left:3%
+}
+
+.my-experience .exp .certified {margin-bottom:65px}
+
+.my-experience .exp .certified:last-of-type {margin-bottom:50px}
+
+.my-experience .exp .certified span {color:#666}
+
+.my-experience .exp .certified span:last-of-type{
+    display:inline-block;
+    background-color:#2ecc71;
+    color:#FFF;
+    padding:3px 10px;
+    margin-top:10px;
+    margin-bottom:20px
+}
+
+/* End My Experience */
+
+
+
+
+
 
 /* Start Testemonials */
 

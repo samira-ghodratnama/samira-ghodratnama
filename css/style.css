@@ -201,7 +201,7 @@ margin-left:40px}
 /* Start My Award */
 
 .my-award {
-    min-height:300px;
+    min-height:350px;
 	max-height:1500px;
     padding-top:30px
 }
@@ -316,6 +316,67 @@ margin-left:40px}
 }
 
 /* End My Education */
+
+
+/* Start My Publication */
+.my-publication {
+	background-color:#F2F2F2;
+	 min-height:450px;
+	 max-height:600px
+}
+
+.my-publication hr {
+	background-color:#F2F2F2
+    border:0;
+    height:1px;
+   /*  background-color:#999*/
+	
+}
+
+.my-publication .main {
+    width:50%;
+	
+}
+
+.my-publication .main h2 {margin-left:40px}
+
+.my-publication .main p {width:90%;margin-left:40px}
+
+.my-publication .exp {
+    float:left;
+    width:45%;
+    margin-top:55px;
+    padding-left:3%
+}
+
+.my-publication .exp .certified {margin-bottom:65px}
+
+.my-publication .exp .certified:last-of-type {margin-bottom:50px}
+
+.my-publication .exp .certified span {color:#666}
+
+.my-publication .exp .certified span:last-of-type{
+    display:inline-block;
+    background-color:#2ecc71;
+    color:#FFF;
+    padding:3px 10px;
+    margin-top:10px;
+    margin-bottom:20px
+}
+
+.my-publication .exp .certified hr{
+    background-color:#00cd00
+}
+
+
+/* End My publication */
+
+
+
+
+
+
+
 
 
 /* Start My Experience */

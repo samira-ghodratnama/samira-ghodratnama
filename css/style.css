@@ -196,6 +196,57 @@ margin-left:40px}
 
 /* End My Skills */
 
+
+
+/* Start My Award */
+
+.my-award {
+    min-height:300px;
+	max-height:1500px;
+    padding-top:30px
+}
+
+.my-award .award {width:50%;
+margin-left:40px}
+
+.my-award .award p {width:90%}
+
+.my-award .award button {
+    display: inline-block;
+    background:none;
+    color: #2ecc71;
+    padding:9px 26px;
+    border: 2.5px solid #2ecc71;
+    margin-top:20px;
+    font-size:15px
+}
+
+.my-award .progress {
+	width:45%
+	}
+
+.my-award .progress .technique div {
+    height:25px;
+    background-color:#F2F2F2
+}
+
+.my-award .progress .technique div span {
+    background-color:#2ecc71;
+    display:block;
+    text-align:right;
+    height:25px;
+    color:#FFF;
+    font-weight:bold;
+    line-height:20px    
+}
+
+/* End My Award */
+
+
+
+
+
+
 /* Start Resume */
 
 .resume {

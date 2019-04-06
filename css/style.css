@@ -58,7 +58,7 @@ body {font-family:Arial , Tahoma;margin:0}
     background-color:#252F31;
     color:#FFF
 }
-.navbar .container {width:91%;margin-left:9%}
+.navbar .container {width:90%;margin-left:9%;margin-right:1%}
 .navbar .logo span {color: #2ecc71}
 
 .navbar h2 {
@@ -100,7 +100,7 @@ body {font-family:Arial , Tahoma;margin:0}
 
     padding-bottom: 50px
 }
-.features .container {width:82%;margin-left:9%;margin-right:9%;}
+.features .container {width:88%;margin-left:9%;margin-right:3%}
 .features .feat {
     width:33.333333%;
     height:150px;
@@ -119,13 +119,13 @@ body {font-family:Arial , Tahoma;margin:0}
     min-height:360px;
     background-color:#F2F2F2
 }
-.about-me .container {width:92%;margin-left:9%;margin-right:1%}
+.about-me .container {width:91%;margin-left:9%}
 .about-me .image {
     float: left;
-    width: 35%
+    width: 37%
 }
 .about-me .info {
-    width: 65%;
+    width: 63%;
     overflow:hidden
 }
 

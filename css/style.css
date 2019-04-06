@@ -121,10 +121,10 @@ body {font-family:Arial , Tahoma;margin:0}
 .about-me .container {width:82%;margin-left:9%;margin-right:9%}
 .about-me .image {
     float: left;
-    width: 30%
+    width: 35%
 }
 .about-me .info {
-    width: 70%;
+    width: 60%;
     overflow:hidden
 }
 

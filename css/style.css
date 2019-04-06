@@ -179,13 +179,11 @@ margin-left:40px}
 /* Start My Award */
 
 .my-award {
-    min-height:370px;
-	max-height:1500px;
-    padding-top:30px
+	margin-top:2%;
+	min-height:420px
 }
 .my-award  .container {width:86%;margin-left:9%;margin-right:5%}
-.my-award .award {width:50%;
-margin-left:40px}
+
 
 .my-award .award p {width:90%}
 
@@ -302,12 +300,12 @@ margin-left:40px}
 /* Start My Publication */
 .my-publication {
 	background-color:#F2F2F2;
-	 min-height:480px;
-	 max-height:600px
+	 min-height:480px
 }
 .my-publication  .container {width:86%;margin-left:9%;margin-right:5%}
 .my-publication hr {
-	background-color:#F2F2F2
+			
+	background-color:#F2F2F2;
     border:0;
     height:1px;
    /*  background-color:#999*/
@@ -316,21 +314,17 @@ margin-left:40px}
 
 .my-publication .main {
     width:52.5%
-	
 }
 
-.my-publication .main h2 {margin-left:40px}
-
-.my-publication .main p {width:90%;margin-left:40px}
+.my-publication .main p {width:90%}
 
 .my-publication .exp {
     float:left;
     width:44%
 }
 
-.my-publication .exp .certified {margin-bottom:65px}
 
-.my-publication .exp .certified:last-of-type {margin-bottom:50px}
+
 
 .my-publication .exp .certified span {color:#666}
 
@@ -346,15 +340,7 @@ margin-left:40px}
 .my-publication .exp .certified hr{
     background-color:#00cd00
 }
-
-
 /* End My publication */
-
-
-
-
-
-
 
 
 

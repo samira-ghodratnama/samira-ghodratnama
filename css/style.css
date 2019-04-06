@@ -14,7 +14,8 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start Slider */
 
 .header .slider {
-    height:70%;
+    height:80%;
+	width:100%;
     background-image:url('../images/slider.jpg');
     -webkit-background-size: cover; /* CSS3 */
     -moz-background-size: cover; /* CSS3 */
@@ -23,7 +24,7 @@ body {font-family:Arial , Tahoma;margin:0}
 }
 
 .header .slider .intro {
-    padding-top:5%;
+    padding-top:12%;
     color: #FFF;
     text-align:center
 }
@@ -44,17 +45,12 @@ body {font-family:Arial , Tahoma;margin:0}
     padding:10px 25px;
     font-size:22px;
 }
-.notseen{
-
-	 height:25px;
-	display: none
-}
 /* End Slider */
 
 /* Start Navbar */
 
 .navbar {
-    height:8%;
+    height:7.5%;
     background-color:#252F31;
     color:#FFF
 }
@@ -188,7 +184,7 @@ margin-left:40px}
 	max-height:1500px;
     padding-top:30px
 }
-.my-award  .container {width:89%;margin-left:9%;margin-right:5%;}
+.my-award  .container {width:86%;margin-left:9%;margin-right:5%}
 .my-award .award {width:50%;
 margin-left:40px}
 
@@ -258,7 +254,7 @@ margin-left:40px}
 	/* background-color:#F2F2F2;*/
 	 min-height:550px;
 }
-.my-education  .container {width:89%;margin-left:6%;margin-right:5%;}
+.my-education  .container {width:86%;margin-left:6%;margin-right:5%}
 .my-education hr {
 	background-color:#F2F2F2
     border:0;
@@ -268,7 +264,7 @@ margin-left:40px}
 }
 
 .my-education .main {
-    width:50%;
+    width:52.5%
 	
 }
 
@@ -278,7 +274,7 @@ margin-left:40px}
 
 .my-education .exp {
     float:left;
-    width:45%;
+    width:44%;
     margin-top:55px;
     padding-left:3%
 }
@@ -307,7 +303,7 @@ margin-left:40px}
 	 min-height:480px;
 	 max-height:600px
 }
-.my-publication  .container {width:89%;margin-left:9%;margin-right:5%;}
+.my-publication  .container {width:86%;margin-left:9%;margin-right:5%}
 .my-publication hr {
 	background-color:#F2F2F2
     border:0;
@@ -317,7 +313,7 @@ margin-left:40px}
 }
 
 .my-publication .main {
-    width:50%;
+    width:52.5%
 	
 }
 
@@ -327,9 +323,7 @@ margin-left:40px}
 
 .my-publication .exp {
     float:left;
-    width:45%;
-    margin-top:55px;
-    padding-left:3%
+    width:44%
 }
 
 .my-publication .exp .certified {margin-bottom:65px}
@@ -366,7 +360,7 @@ margin-left:40px}
 .my-experience{
 	 min-height:550px
 }
-.my-experience  .container {width:89%;margin-left:6%;margin-right:5%;}
+.my-experience  .container {width:89%;margin-left:6%;margin-right:5%}
 .my-experience hr {
 
     border:0;
@@ -375,7 +369,7 @@ margin-left:40px}
 }
 
 .my-experience .main {
-    width:50%;
+    width:52.5%
 	
 }
 
@@ -387,7 +381,7 @@ margin-left:40px}
 
 .my-experience .exp {
     float:left;
-    width:45%;
+    width:44%;
     margin-top:55px;
     padding-left:3%
 }

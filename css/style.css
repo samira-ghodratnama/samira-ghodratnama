@@ -14,7 +14,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start Slider */
 
 .header .slider {
-    height:78%;
+    height:75%;
     background-image:url('../images/slider.jpg');
     -webkit-background-size: cover; /* CSS3 */
     -moz-background-size: cover; /* CSS3 */
@@ -23,7 +23,7 @@ body {font-family:Arial , Tahoma;margin:0}
 }
 
 .header .slider .intro {
-    padding-top:12%;
+    padding-top:4%;
     color: #FFF;
     text-align:center
 }

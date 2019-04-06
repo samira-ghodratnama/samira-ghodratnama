@@ -259,9 +259,8 @@ margin-left:40px}
 }
 .my-education  .container {width:86%;margin-left:6%;margin-right:5%}
 .my-education hr {
-	background-color:#F2F2F2
-    border:0;
-    height:1px;
+    background-color:#2ecc71;
+    height:1px
    /*  background-color:#999*/
 	
 }
@@ -365,11 +364,10 @@ margin-left:40px}
 }
 .my-experience  .container {width:89%;margin-left:6%;margin-right:5%}
 .my-experience hr {
-
-    border:0;
     height:1px;
-   background-color:#737373	
+   background-color:#2ecc71	
 }
+
 
 .my-experience .main {
     width:52.5%
@@ -411,7 +409,6 @@ margin-left:40px}
 
 
 /* End My Experience */
-
 
 
 

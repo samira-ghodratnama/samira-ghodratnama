@@ -118,7 +118,7 @@ body {font-family:Arial , Tahoma;margin:0}
     min-height:360px;
     background-color:#F2F2F2
 }
-.about-me .container {width:82%;margin-left:6%;margin-right:2%}
+.about-me .container {width:82%;margin-left:6%}
 .about-me .image {
     float: left;
     width: 35%
@@ -186,7 +186,7 @@ margin-left:40px}
 /* Start My Award */
 
 .my-award {
-    min-height:350px;
+    min-height:370px;
 	max-height:1500px;
     padding-top:30px
 }
@@ -306,7 +306,7 @@ margin-left:40px}
 /* Start My Publication */
 .my-publication {
 	background-color:#F2F2F2;
-	 min-height:450px;
+	 min-height:480px;
 	 max-height:600px
 }
 .my-publication  .container {width:89%;margin-left:6%;margin-right:5%;}

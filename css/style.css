@@ -136,6 +136,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start My Skills */
 
 .my-skills {
+	background:#F2F2F2;
     min-height:300px;
 	max-height:1000px;
     padding-top:30px
@@ -148,7 +149,8 @@ margin-left:40px}
 
 .my-skills .skills button {
     display: inline-block;
-    background:none;
+   background:none;
+
     color: #2ecc71;
     padding:9px 26px;
     border: 2.5px solid #2ecc71;
@@ -253,7 +255,7 @@ margin-left:40px}
 
 /* Start My Education */
 .my-education {
-	background-color:#F2F2F2;
+	/* background-color:#F2F2F2;*/
 	 min-height:550px;
 }
 .my-education  .container {width:89%;margin-left:6%;margin-right:5%;}

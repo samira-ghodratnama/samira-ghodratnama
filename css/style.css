@@ -58,7 +58,7 @@ body {font-family:Arial , Tahoma;margin:0}
     background-color:#252F31;
     color:#FFF
 }
-.navbar .container {width:88%;margin-left:9%;margin-right:3%;}
+.navbar .container {width:88%;margin-left:6%;margin-right:3%;}
 .navbar .logo span {color: #2ecc71}
 
 .navbar h2 {
@@ -99,7 +99,7 @@ body {font-family:Arial , Tahoma;margin:0}
     padding-top:40px;
     padding-bottom: 50px
 }
-.features .container {width:82%;margin-left:9%;margin-right:9%;}
+.features .container {width:82%;margin-left:6%;margin-right:9%;}
 .features .feat {
     width:33.333333%;
     height:150px;
@@ -118,13 +118,13 @@ body {font-family:Arial , Tahoma;margin:0}
     min-height:360px;
     background-color:#F2F2F2
 }
-.about-me .container {width:82%;margin-left:9%;margin-right:9%}
+.about-me .container {width:82%;margin-left:6%;margin-right:9%}
 .about-me .image {
     float: left;
     width: 35%
 }
 .about-me .info {
-    width: 55%;
+    width: 65%;
     overflow:hidden
 }
 
@@ -144,7 +144,7 @@ body {font-family:Arial , Tahoma;margin:0}
 	max-height:1000px;
     padding-top:30px
 }
-.my-skills .container {width:89%;margin-left:6%;margin-right:5%;}
+.my-skills .container {width:89%;margin-left:4%;margin-right:5%;}
 .my-skills .skills {width:50%;
 margin-left:40px}
 
@@ -260,7 +260,7 @@ margin-left:40px}
 	background-color:#F2F2F2;
 	 min-height:550px;
 }
-.my-education  .container {width:89%;margin-left:6%;margin-right:5%;}
+.my-education  .container {width:89%;margin-left:4%;margin-right:5%;}
 .my-education hr {
 	background-color:#F2F2F2
     border:0;
@@ -368,7 +368,7 @@ margin-left:40px}
 .my-experience{
 	 min-height:550px
 }
-.my-experience  .container {width:89%;margin-left:6%;margin-right:5%;}
+.my-experience  .container {width:89%;margin-left:4%;margin-right:5%;}
 .my-experience hr {
 
     border:0;

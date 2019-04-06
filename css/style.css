@@ -14,7 +14,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start Slider */
 
 .header .slider {
-    height:90%;
+    height:85%;
     background-image:url('../images/slider.jpg');
     -webkit-background-size: cover; /* CSS3 */
     -moz-background-size: cover; /* CSS3 */
@@ -49,7 +49,7 @@ body {font-family:Arial , Tahoma;margin:0}
 /* Start Navbar */
 
 .navbar {
-    height:7.5%;
+    height:7%;
     background-color:#252F31;
     color:#FFF
 }
@@ -63,8 +63,8 @@ body {font-family:Arial , Tahoma;margin:0}
 
 .navbar ul {
     list-style:none;
-    float:right;
-    margin:23px
+    float:right
+
 }
 
 .navbar ul li {
